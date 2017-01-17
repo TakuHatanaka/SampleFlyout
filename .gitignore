@@ -3,3 +3,11 @@
 ################################################################################
 
 /SampleFlyout/packages
+/SampleFlyout/.vs/SampleFlyout/v14
+/SampleFlyout/SampleFlyout/SampleFlyout/obj/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout/bin/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout.Droid/obj/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout.Droid/bin/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout.iOS/obj/iPhone/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout.UWP/obj/x86/Debug
+/SampleFlyout/SampleFlyout/SampleFlyout.UWP/bin/x86/Debug
